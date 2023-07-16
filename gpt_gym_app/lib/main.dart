@@ -14,18 +14,19 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text("gpt-gym"),
         ),
-        body: const Center(
+        body: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              Text(
+              Image.asset("assets/images/bodybuilding.PNG"),
+              const Text (
                   "welcome",
                 style: TextStyle(
                   fontSize: 42,
                   fontFamily: 'Poppins'
-                )
+                ),
               ),
-              Text(
+              const Text(
                 "Bienvenue sur gym-gpt",
                 style: TextStyle(
                   fontSize: 28

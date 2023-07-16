@@ -1,1 +1,3 @@
-je test 
+temps de travail :
+ - Théophile : 5h,
+ - Sibyl : ?h
